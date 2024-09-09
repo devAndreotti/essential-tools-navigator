@@ -17,7 +17,7 @@ Este projeto é uma aplicação web desenvolvida durante uma imersão. A platafo
 
 ## ⚙️ Funcionalidades Principais
 - **Exibição Dinâmica de Ferramentas**: Ferramentas são mostradas em cartões interativos.
-- **Campo de Pesquisa**: Permite buscar ferramentas por tags ou nomes.
+- **Campo de Pesquisa**: Permite buscar ferramentas por categorias ou nomes.
 - **Detalhes dos Cartões**: Cada cartão fornece informações detalhadas.
 
 ## 🛠 Tecnologias Utilizadas
