@@ -1,3 +1,4 @@
+<!-- Projeto Finalizado -->
 # 🎲 Desafio Alura: Base de Pesquisa
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
@@ -5,7 +6,7 @@
   <!-- Tamanho do repositório no GitHub -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=00547f&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=4bae4f&style=flat-square">
 </p>
 
 <div align="center">
@@ -43,17 +44,17 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 └── README.md                               # Documentação do projeto
 ```
 
-## ✒️ Características Adicionais
-- **Animações e Transições Suaves**: Melhoram a experiência do usuário com efeitos visuais agradáveis.
-- **Integração com Font Awesome**: Para uma interface mais intuitiva com ícones.
-- **Menu Hamburguer**: Melhorada a navegação em dispositivos móveis.
-
 ## 🧭 Guia de Implementação
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/devAndreotti/essential-tools-navigator.git
    ```
 2. **Abra o arquivo `index.html` no navegador**.
+
+## ✒️ Características Adicionais
+- **Animações e Transições Suaves**: Melhoram a experiência do usuário com efeitos visuais agradáveis.
+- **Integração com Font Awesome**: Para uma interface mais intuitiva com ícones.
+- **Menu Hamburguer**: Melhorada a navegação em dispositivos móveis.
 
 ## 📱 Demo
 <div align="center">
@@ -80,4 +81,4 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 5. Abra um Pull Request.
 
 ## 📝 Nota
-Este projeto foi desenvolvido em uma imersão da Alura em parceria com o Google, focando em práticas modernas de HTML, CSS e JavaScript.
+Este projeto foi desenvolvido em uma imersão da **Alura** em parceria com o **Google**, focando em práticas modernas de HTML, CSS e JavaScript.
