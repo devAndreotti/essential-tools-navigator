@@ -1,15 +1,15 @@
 # 🚀 Alura: Base de Conhecimento
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/essential-tools-navigator?color=FFF&labelColor=00547f&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/essential-tools-navigator?color=FFF&labelColor=00547f&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/essential-tools-navigator?color=FFF&labelColor=00547f&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
 </p>
 
 <div align="center">
-<img src="./caminho-para-sua-imagem.png" alt="Home do Projeto"/>
+<img src="./home-black.png" alt="Home do Projeto"/>
 </div>
 
 ## 📋 Sobre o Projeto
@@ -20,6 +20,23 @@ Design Responsivo: Layout adaptável para diferentes tamanhos de tela.
 Gerenciamento de Temas: Suporte para múltiplos temas visuais.
 Menu Dinâmico: Funcionalidade de menu interativo e responsivo.
 Gerenciamento de Dados: Manipulação eficiente de dados da aplicação.
+
+## ⚙️ Funcionalidades
+- [x] Arquivos JavaScript modulares para organização (`app.js`, `data.js`, `menu.js`, `theme.js`).
+- [x] Estilos CSS separados para manutenção (`style.css`, `responsive.css`).
+- [x] Gerenciamento de temas (claro/escuro) via JavaScript.
+- [x] Estrutura HTML5 semântica para acessibilidade e SEO.
+- [x] Manipulação e gerenciamento de dados em JavaScript.
+- [x] Design responsivo adaptável a diferentes telas.
+- [x] Interatividade e animações na interface
+- [x] Lógica centralizada em `app.js`.
+- [x] Estilização moderna com CSS3.
+- [x] Menu dinâmico e responsivo.
+
+## 🛠 Tecnologias
+- **JavaScript**
+- **HTML5**
+- **CSS3**
 
 ## 🧭 Guia de Implementação
 1. **Clone o repositório**:
@@ -42,6 +59,11 @@ Gerenciamento de Dados: Manipulação eficiente de dados da aplicação.
 ├── index.html                              # Página principal do projeto
 └── README.md                               # Documentação do projeto
 ```
+
+## 📱 Demo
+<div align="center">
+  <img src="./pages.png" alt="Pages Banner"/>
+</div>
 
 # 💪 Como Contribuir
 Contribuições são bem-vindas! Siga estas etapas para colaborar:
