@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-<img src="./home-black.png" alt="Home do Projeto"/>
+  <img src="./home-black.png" alt="Home tema escuro";/>
 </div>
 
 ## 📋 Sobre o Projeto
@@ -62,7 +62,8 @@ Gerenciamento de Dados: Manipulação eficiente de dados da aplicação.
 
 ## 📱 Demo
 <div align="center">
-  <img src="./pages.png" alt="Pages Banner"/>
+  <img src="./cell-cards-black.png" alt="Cards tema escuro" style="display: block;"/>
+  <img src="./cell-cards-white.png" alt="Cards tema claro" style="display: block;"/>
 </div>
 
 # 💪 Como Contribuir
