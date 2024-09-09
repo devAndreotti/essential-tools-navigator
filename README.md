@@ -16,40 +16,17 @@
 Este projeto é uma aplicação web desenvolvida durante uma imersão. A plataforma tem como objetivo apresentar e pesquisar ferramentas de produtividade, facilitando a descoberta e a exploração de soluções úteis para o trabalho e a organização pessoal.
 
 ## ⚙️ Funcionalidades Principais
-- **Campo de Pesquisa**: Permite buscar ferramentas por tags ou nomes.
 - **Exibição Dinâmica de Ferramentas**: Ferramentas são mostradas em cartões interativos.
-- **Detalhes dos Cartões**: Cada cartão fornece informações detalhadas, incluindo:
-  - Título
-  - Descrição
-  - Plataformas Suportadas
-  - Dificuldade
-  - Preço
-  - Popularidade
-  - Licença
+- **Campo de Pesquisa**: Permite buscar ferramentas por tags ou nomes.
+- **Detalhes dos Cartões**: Cada cartão fornece informações detalhadas.
 
 ## 🛠 Tecnologias Utilizadas
 - **CSS3**: Para estilização, com ênfase em flexbox e grid para layouts responsivos.
 - **JavaScript Vanilla**: Para interatividade e manipulação do DOM.
 - **HTML5**: Para estruturação do conteúdo.
 
-## ✨ Características Adicionais
-- **Animações e Transições Suaves**: Melhoram a experiência do usuário com efeitos visuais agradáveis.
-- **Integração com Font Awesome**: Para uma interface mais intuitiva com ícones.
-- **Menu Hamburguer**: Melhorada a navegação em dispositivos móveis.
-
 ## 🌐 Visualize o Projeto
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/essential-tools-navigator/).
-
-## 🚀 Futuras Melhorias e Ideias
-- [ ] **Filtros Personalizados**: Adicionar filtros por categoria e preço.
-- [ ] **Avaliações e Comentários**: Permitir avaliações e comentários dos usuários.
-- [ ] **Login e Favoritos**: Criar sistema de login e salvar ferramentas favoritas.
-- [ ] **Comparação de Ferramentas**: Adicionar funcionalidade de comparação.
-- [ ] **Algoritmo de Recomendação**: Desenvolver recomendações personalizadas.
-- [ ] **Tutoriais e Guias**: Adicionar tutoriais e guias úteis.
-- [ ] **Experiência Offline**: Implementar PWA para uso offline.
-- [ ] **Suporte a Múltiplos Idiomas**: Adicionar suporte para vários idiomas.
-- [ ] **Compartilhamento Social**: Facilitar o compartilhamento em redes sociais.
 
 ## 📂 Estrutura do Projeto
 ```
@@ -66,18 +43,33 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 └── README.md                               # Documentação do projeto
 ```
 
+## ✒️ Características Adicionais
+- **Animações e Transições Suaves**: Melhoram a experiência do usuário com efeitos visuais agradáveis.
+- **Integração com Font Awesome**: Para uma interface mais intuitiva com ícones.
+- **Menu Hamburguer**: Melhorada a navegação em dispositivos móveis.
+
+## 🧭 Guia de Implementação
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/devAndreotti/essential-tools-navigator.git
+   ```
+2. **Abra o arquivo `index.html` no navegador**.
+
 ## 📱 Demo
 <div align="center">
   <img src="./cell-cards-black.png" alt="Cards no Tema Escuro" style="display: block;">
   <img src="./cell-cards-white.png" alt="Cards no Tema Claro" style="display: block;">
 </div>
 
-## 🧭 Guia de Implementação
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/devAndreotti/APS-01.git
-   ```
-2. **Abra o arquivo `index.html` no navegador**.
+## 🚀 Futuras Melhorias
+- [ ] **Login e Favoritos**: Criar um sistema de login e salvar ferramentas favoritas.
+- [ ] **Avaliações e Comentários**: Permitir avaliações e comentários dos usuários.
+- [ ] **Suporte a Múltiplos Idiomas**: Adicionar suporte para vários idiomas.
+- [ ] **Compartilhamento**: Facilitar o compartilhamento em redes sociais.
+- [ ] **Filtros Personalizados**: Adicionar filtros por tags e preço.
+- [ ] **Experiência Offline**: Implementar PWA para uso offline.
+- [ ] **Tutoriais e Guias**: Adicionar tutoriais e guias úteis.
+- [ ] **Barra de Navegação**: Adicionar mais itens.
 
 ## 💪 Como Contribuir
 Contribuições são bem-vindas! Siga estas etapas para colaborar:
