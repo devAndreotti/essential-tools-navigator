@@ -1,0 +1,111 @@
+<!-- Projeto padronizado em portugês -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <!-- Título da página -->
+    <title>Ferramentas de Produtividade: Maximização da Eficiência</title>
+    <!-- Meta tag para ajustar a página ao dispositivo (responsividade) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tag com palavras-chave para SEO -->
+    <meta name="keywords" content="Produtividade, Ferramentas, Automação, Gerenciamento, Design, Segurança">
+    <!-- Meta tag com o autor da página -->
+    <meta name="author" content="Ricardo Andreotti Gonçalves">
+    <!-- Meta tag com a descrição da página -->
+    <meta name="description" content="Descubra ferramentas de produtividade para maximizar sua eficiência no trabalho e em projetos pessoais.">
+    <!-- Definição de codificação de caracteres -->
+    <meta charset="UTF-8">
+    <!-- Ícone da aba do navegador -->
+    <link rel="icon" href="./src/img/white_icon.png" type="image/x-icon">
+    <!-- Link para o arquivo CSS de responsividade -->
+    <link rel="stylesheet" href="./src/css/responsive.css">
+    <!-- Link para o arquivo CSS principal -->
+    <link rel="stylesheet" href="./src/css/style.css">
+</head>
+
+<body>
+
+    <!-- Barra de navegação -->
+    <header>
+        <nav class="barra-navegacao">
+            <!-- Logo -->
+            <div class="conteudo-barra-navegacao">
+                <a href="#" class="logo">
+                    <img src="./src/img/black_icon.png" alt="Logo" class="logo-img logo-img-light">
+                    <img src="./src/img/white_icon.png" alt="Logo" class="logo-img logo-img-dark">
+                    Ferramentas de Produtividade
+                </a>
+                <!-- Navegação -->
+                <div class="nav-direita">
+                    <div class="nav-links">
+                        <a href="#" class="nav-item">Início</a>
+                    </div>
+                    <!-- Botão do tema -->
+                    <button id="botao-tema" aria-label="Alternar tema">
+                        <i class="fas fa-sun icon-sun"></i>
+                    </button>
+                    <!-- Menu hamburguer -->
+                    <div class="menu-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Contêiner do vídeo de fundo -->
+        <div class="fundo-video">
+            <video class="video-fundo" autoplay loop muted playsinline>
+                <!-- Fonte do vídeo de fundo -->
+                <source src="./src/vid/produtividade02.mp4" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.
+            </video>
+        </div>
+        <!-- Contêiner principal do conteúdo -->
+        <div class="conteudo-principal">
+            <div class="conteudo-cabecalho">
+                <!-- Título principal da página -->
+                <h1>Maximização da Eficiência</h1>
+                <!-- Seção de pesquisa -->
+                <section id="pesquisa">
+                    <input type="text" id="campo-pesquisa" placeholder="Busque ferramentas por tags...">
+                    <button id="botao-pesquisa">
+                        <i class="fas fa-search"></i> Buscar
+                    </button>
+                </section>
+            </div>
+            <!-- Seção de ferramentas -->
+            <section id="ferramentas">
+                <!-- Ferramentas serão carregadas dinamicamente -->
+            </section>
+        </div>
+    </main>
+
+    <!-- Rodapé da página -->
+    <footer>
+        <div class="conteudo-rodape">
+            <div class="footer-info">
+                <p>&copy; 2024 Ricardo Andreotti</p>
+            </div>
+            <div class="icones-sociais">
+                <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/devAndreotti" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Importação da biblioteca de ícones Font Awesome -->
+    <script src="https://kit.fontawesome.com/f9e19193d6.js" crossorigin="anonymous"></script>
+
+    <!-- Link para os arquivos JavaScript -->
+    <script src="src/js/data.js"></script>
+    <script src="src/js/app.js"></script>
+    <script src="src/js/theme.js"></script>
+    <script src="src/js/menu.js"></script>
+
+</body>
+</html>
