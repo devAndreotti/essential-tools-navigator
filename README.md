@@ -5,7 +5,7 @@
   <!-- Tamanho do repositório no GitHub -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=00547f&style=flat-square">
 </p>
 
 <div align="center">
