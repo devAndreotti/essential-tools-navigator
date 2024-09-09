@@ -57,8 +57,8 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 
 ## 📱 Demo
 <div align="center">
-  <img src="./cell-cards-black.png" alt="Cards no Tema Escuro" style="display: block;">
-  <img src="./cell-cards-white.png" alt="Cards no Tema Claro" style="display: block;">
+  <img src="./cell-cards-black.png" alt="Cards no Tema Escuro" width="400" style="display: block;">
+  <img src="./cell-cards-white.png" alt="Cards no Tema Claro" width="400" style="display: block;">
 </div>
 
 ## 🚀 Futuras Melhorias
