@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# 🎲 Desafio Alura: Base de Pesquisa
+# 🔎 Desafio Alura: Base de Pesquisa
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/essential-tools-navigator?color=FFF&labelColor=4bae4f&style=flat-square">
