@@ -82,3 +82,8 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 ## 📝 Nota
 Este projeto foi desenvolvido em uma imersão da **Alura** em parceria com o **Google**, focando em práticas modernas de HTML, CSS e JavaScript.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
