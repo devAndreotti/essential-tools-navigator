@@ -26,6 +26,12 @@ Este projeto é uma aplicação web desenvolvida durante uma imersão. A platafo
 - **JavaScript Vanilla**: Para interatividade e manipulação do DOM.
 - **HTML5**: Para estruturação do conteúdo.
 
+🌌 Contexto do Projeto
+O Essential Tools Navigator foi desenvolvido durante a Imersão Dev com Google Gemini, um evento de treinamento intensivo focado em tecnologias de desenvolvimento web, com a ajuda do Gemini. A Imersão foi hospedada pela Alura.
+<div>
+  <img src="./google-alura.webp" alt="Card da Imersão">
+</div>
+
 ## 🌐 Visualize o Projeto
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/essential-tools-navigator/).
 
