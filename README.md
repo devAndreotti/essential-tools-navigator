@@ -92,4 +92,9 @@ Este projeto foi desenvolvido em uma imersão da **Alura** em parceria com o **G
 <br>
 
 ---
-<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/seuUsuario">Ricardo Andreotti Gonçalves</a> 🧑‍💻
+</p>
+
+---
